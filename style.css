@@ -1,0 +1,12 @@
+html {
+    font-family: 'Source Serif Pro', serif;
+}
+
+.didascalie{
+    color: lightgray;
+    font-style: italic;
+}
+
+.perso {
+    font-weight: 600;
+}
